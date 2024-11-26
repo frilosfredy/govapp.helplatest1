@@ -105,7 +105,7 @@ function validatePassword($password) {
         .login-container {
             margin-top: 100px;
             padding: 20px;
-            max-width: 350px;
+            max-width: 320px;
             background-color: #062340;
             border-radius: 10px;
             box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
