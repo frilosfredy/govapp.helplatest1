@@ -8,8 +8,7 @@
     </style>
 </head>
 <body>
-<!-- <div class="main-content"> -->
-    <!-- <div class="main-content"> -->
+
         <div id="link_aadhar.php" class="content-section">
             <h1><?php echo $languageStrings['link_aadhaar_manual']; ?></h1>
             
