@@ -66,7 +66,11 @@ if ($currentLanguage === 'ml') {
         'pay_tax' => 'നികുതി അടയ്ക്കുക',
         'link_aadhaar_manual' => 'ആധാർ ലിങ്ക് ഉപയോക്തൃ മാനുവൽ',
         'overview' => '1. അവലോകനം',
-        'overview_text' => 'പാൻ കാർഡിന്റെ പുതിയ അപേക്ഷകരുടെ കാര്യത്തിൽ, അപേക്ഷാ ഘട്ടത്തിൽ തന്നെ ആധാർ പാൻ ലിങ്കിംഗ് നടത്തപ്പെടുന്നു...',
+        'overview_text' => 'പാൻ കാർഡിന്റെ പുതിയ അപേക്ഷകരുടെ കാര്യത്തിൽ, അപേക്ഷാ ഘട്ടത്തിൽ തന്നെ ആധാർ പാൻ ലിങ്കിംഗ് നടത്തപ്പെടുന്നു.
+         01-07-2017-നോ അതിനുമുമ്പോ പാൻ അനുവദിച്ചിട്ടുള്ള നിലവിലുള്ള പാൻ ഉടമകൾക്ക്, ആധാറുമായി പാൻ ലിങ്ക് ചെയ്യേണ്ടത് നിർബന്ധമാണ്.
+         ലിങ്ക് ആധാർ സേവനം വ്യക്തിഗത നികുതിദായകർക്ക് ലഭ്യമാണ് (ഇ-ഫയലിംഗ് പോർട്ടലിൽ രജിസ്റ്റർ ചെയ്തതും രജിസ്റ്റർ ചെയ്യാത്തതും).
+         30<sup>th</sup> ജൂൺ 2023-നകം നിങ്ങളുടെ പാൻ ആധാറുമായി ലിങ്ക് ചെയ്‌തില്ലെങ്കിൽ, നിങ്ങളുടെ പാൻ പ്രവർത്തനരഹിതമാകും.
+        എന്നിരുന്നാലും, ഒഴിവാക്കപ്പെട്ട വിഭാഗത്തിൽ പെടുന്ന ആളുകൾക്ക് പാൻ പ്രവർത്തനരഹിതമാകുന്നതിൻ്റെ പ്രത്യാഘാതങ്ങൾക്ക് വിധേയമാകില്ല.',
         'prerequisites' => '2. ഈ സേവനം ലഭ്യമാക്കുന്നതിനുള്ള മുൻഗണനകൾ:',
         'prerequisites_items1' => 'സാധുവായ പാൻ',
         'prerequisites_items2'=>'ആധാർ നമ്പർ',
@@ -105,7 +109,10 @@ if ($currentLanguage === 'ml') {
         'pay_tax' => 'pay tax',
         'link_aadhaar_manual' => 'Link Aadhaar User Manual',
         'overview' => '1. Overview',
-        'overview_text' => 'For new applicants of PAN card, the Aadhaar PAN linking is done automatically during the application stage...',
+        'overview_text' => 'For new applicants of PAN card, the Aadhaar PAN linking is done automatically during the application stage.For existing PAN holders who were allotted PAN on or before 01-07-2017, it is mandatory to link PAN with Aadhaar. 
+         The Link Aadhaar service is available to individual taxpayers (both registered and unregistered on the e-Filing Portal). 
+         If you do not link your PAN with Aadhaar by 30<sup>th</sup> June 2023, your PAN will become inoperative. 
+         However, people who fall under the exempted category will not be subject to the effects of PAN becoming inoperative.',
         'prerequisites' => '2. Prerequisites for availing this service:',
         'prerequisites_items1' => 'Valid PAN', 
         'prerequisites_items2'=>'Aadhaar number', 
